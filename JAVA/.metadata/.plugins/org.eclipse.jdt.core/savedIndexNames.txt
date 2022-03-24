@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/mtxit/Desktop/AnupKr/JAVA/.metadata/.plugins/org.eclipse.jdt.core
+3703194086.index
+2968611995.index
+30038764.index
+1865797976.index
+2380829008.index
+3495499399.index
